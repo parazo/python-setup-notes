@@ -23,3 +23,7 @@ this is he command to install it:
 python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl
 
 =============================
+Creating remote githup repo:
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
