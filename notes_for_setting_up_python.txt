@@ -4,3 +4,19 @@ https://help.pythonanywhere.com/pages/IPythonNotebookVirtualenvs/
 Activate the env
 pip install ipykernel
 python -m ipykernel install --user --name=my-virtualenv-name
+
+==========================
+Sublime text, create symbolic link to open from command prompt (better than adding it to path variable:
+
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/
+
+==========================
+Tensorflow import was giving error related to something about version 3.5. The fix is to reinstall it as per the instructions here:
+
+https://github.com/tensorflow/tensorflow/issues/6533
+
+this is he command to install it:
+
+python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl
+
+=============================
