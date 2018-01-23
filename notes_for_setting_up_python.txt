@@ -5,6 +5,9 @@ Activate the env
 pip install ipykernel
 python -m ipykernel install --user --name=my-virtualenv-name
 
+I think this must be done for each new environment that is created.
+
+
 ==========================
 Sublime text, create symbolic link to open from command prompt (better than adding it to path variable:
 
