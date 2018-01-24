@@ -27,3 +27,7 @@ Creating remote githup repo:
 
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
+=============================
+Python 3.6 path on work mac
+
+/usr/local/lib/python3.6/site-packages (python 3.6)
