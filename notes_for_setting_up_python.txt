@@ -32,7 +32,7 @@ Python 3.6 path on work mac
 
 /usr/local/lib/python3.6/site-packages (python 3.6)
 /usr/local/Cellar/python3
-
+/usr/local/Cellar/python3/3.6.2/bin/python3
 
 =============================
 Setting up virtualenvwrapper:
@@ -55,4 +55,3 @@ when creating an environment, it is important to specify python3:
 	mkvirtualenv --python=python3_path myenv
 
 
-	
