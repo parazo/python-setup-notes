@@ -2,7 +2,7 @@ Using Jupyter within a virtual environment:
 
 https://help.pythonanywhere.com/pages/IPythonNotebookVirtualenvs/
 Activate the env
-pip install ipykernel
+pip3 install ipykernel
 python -m ipykernel install --user --name=my-virtualenv-name
 
 I think this must be done for each new environment that is created.
