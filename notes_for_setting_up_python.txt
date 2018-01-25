@@ -32,3 +32,27 @@ Python 3.6 path on work mac
 
 /usr/local/lib/python3.6/site-packages (python 3.6)
 /usr/local/Cellar/python3
+
+
+=============================
+Setting up virtualenvwrapper:
+
+Using this website:
+	http://www.marinamele.com/2014/07/install-python3-on-mac-os-x-and-use-virtualenv-and-virtualenvwrapper.html
+
+.bash_profile on home mac 1/25/18:
+
+	alias ll="ls -al"
+	export PS1="\W $ "
+
+	VIRTUALENVWRAPPER_PYTHON="/usr/local/Cellar/python3/3.6.2/bin/python3"
+
+	#virtualenvwrapper
+	export WORKON_HOME=~/.virtualenvs
+	source /usr/local/bin/virtualenvwrapper.sh
+
+when creating an environment, it is important to specify python3:
+	mkvirtualenv --python=python3_path myenv
+
+
+	
