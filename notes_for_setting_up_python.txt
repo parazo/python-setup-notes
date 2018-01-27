@@ -5,6 +5,7 @@ Activate the env
 pip3 install ipykernel
 python -m ipykernel install --user --name=my-virtualenv-name
 
+You can then change environment in Jupiter by selecting “Kenrnel”->”Change Kernel”->…
 I think this must be done for each new environment that is created.
 
 
