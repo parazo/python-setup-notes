@@ -55,4 +55,14 @@ Using this website:
 when creating an environment, it is important to specify python3:
 	mkvirtualenv --python=python3_path myenv
 
+==============================
+Installing zlib
 
+needed for atary-py for gym. In Geron’s reinforcement learning notebook
+
+For compilers to find this software you may need to set:
+    LDFLAGS:  -L/usr/local/opt/zlib/lib
+    CPPFLAGS: -I/usr/local/opt/zlib/include
+
+==> Summary
+🍺  /usr/local/Cellar/zlib/1.2.11: 12 files, 374KB
