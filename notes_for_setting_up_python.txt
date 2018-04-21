@@ -66,3 +66,14 @@ For compilers to find this software you may need to set:
 
 ==> Summary
 🍺  /usr/local/Cellar/zlib/1.2.11: 12 files, 374KB
+
+
+
+===================================
+Jupyter Lab
+
+http://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+
+>pip install jupyterlab
+
+on home mac, I installed jupyterlab in tflow_1.5 environemnt and ve-python3
