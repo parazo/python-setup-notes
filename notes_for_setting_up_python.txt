@@ -77,3 +77,6 @@ http://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 >pip install jupyterlab
 
 on home mac, I installed jupyterlab in tflow_1.5 environemnt and ve-python3
+
+===================================
+spyder3 from terminal
