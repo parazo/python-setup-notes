@@ -81,3 +81,12 @@ on home mac, I installed jupyterlab in tflow_1.5 environemnt and ve-python3
 
 ===================================
 spyder3 from terminal
+
+
+===================================
+Need to install earlier version of python? pyenv
+
+http://mattseymour.net/blog/2016/03/brew-installing-specific-python-version/
+
+work Mac:
+Installed Python-3.6.5 to /usr/local/var/pyenv/versions/3.6.5
