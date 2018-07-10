@@ -90,3 +90,7 @@ http://mattseymour.net/blog/2016/03/brew-installing-specific-python-version/
 
 work Mac:
 Installed Python-3.6.5 to /usr/local/var/pyenv/versions/3.6.5
+
+===================================
+If you want to install anaconda, it may conflict with brew. This should help
+https://hashrocket.com/blog/posts/keep-anaconda-from-constricting-your-homebrew-installs
